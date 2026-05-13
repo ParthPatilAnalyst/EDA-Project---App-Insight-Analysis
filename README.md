@@ -18,6 +18,9 @@ With over 10,000 apps in the dataset spanning 34 categories, the raw data held e
 
 The need was clear: build a **rigorous, end-to-end analytics pipeline** that transforms messy raw data into trustworthy, decision-ready insights for app developers, product managers, and business strategists.
 
+
+![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/f5c798f41da433ec9d08ad1ea3c49f468f662a3e/1.png)
+![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/cb31a75ce4849cc2b2293c64c872eb0d71dea0c4/Screenshot%202026-02-19%20072231.png)
 ---
 
 ## 🎯 Task
